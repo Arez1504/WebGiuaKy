@@ -1,4 +1,4 @@
-# TaskFlow
+# Web quản lý công việc
 
 Ứng dụng web Java Servlet/JSP để quản lý công việc cá nhân.
 
@@ -16,7 +16,7 @@ Project đang dùng database cũ:
 ```text
 Database: WebApp_db
 User: root
-Password: 123456
+Password: 12345
 ```
 
 Nếu MySQL của bạn khác thông tin trên, sửa trong:
